@@ -1,6 +1,6 @@
 # The Ark - ¿Democracy's Favorite Device?
 
-The Ark is a portable computer that can be upgraded, modded, or repaired by the user since it uses open-source software, the pcb files are available, and the parts can be purchased individually. It is powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/), runs a modified version of [Raspbian OS](https://www.raspbian.org), and uses a forked version of [Pocket-Home](https://github.com/thearkadia/PocketCHIP-pocket-home) for the mobile UI.
+The Ark is a portable computer that can be upgraded, modded, or repaired by the user since it uses open-source software, the pcb files are available, and the parts can be purchased individually. It is powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/), runs a modified version of [Raspbian OS](https://www.raspbian.org), 
 
 
  If you want to be involved  submit an [idea\issue](https://github.com/thearkadia/The_Ark/issues), a [pull request](https://github.com/thearkadia/The_Ark/pulls), or [sign up for the newsletter](https://thearkadia.com/pages/newsletter).
@@ -10,7 +10,7 @@ The Ark is a portable computer that can be upgraded, modded, or repaired by the 
 
  
 
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark-front.jpg" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark-back.jpg" width="50%" height="50%">
+<img src="https://github.com/ark-dev/the-ark/blob/master/Media/arkscreens-final.gif" width="50%" height="50%"><img src="https://github.com/thearkadia/The_Ark/blob/master/Media/theark-back.jpg" width="50%" height="50%">
 
 # Simplifying Democracy
 One of the goals of The Ark is to simplify the process of participating in a democracy for citizens, journalists, and politicians in a safe and transparent way. To simplify participating in a Democracy we will develop open source applications that focus on different key aspects of a Democracy. 

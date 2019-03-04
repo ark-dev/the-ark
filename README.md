@@ -3,10 +3,7 @@
 The Ark is a portable computer that can be upgraded, modded, or repaired by the user since it uses open-source software, the pcb files are available, and the parts can be purchased individually. It is powered by the [Raspberry Pi Compute Module](https://www.raspberrypi.org/products/compute-module-3-lite/), and runs a modified version of [Raspbian OS](https://www.raspbian.org).
 
 
-
- If you want to be involved  submit an [idea\issue](https://github.com/thearkadia/The_Ark/issues), a [pull request](https://github.com/thearkadia/The_Ark/pulls), or [sign up for the newsletter](https://thearkadia.com/pages/newsletter). 
-
-
+ If you want to be involved  submit an [idea\issue](https://github.com/thearkadia/The_Ark/issues), a [pull request](https://github.com/thearkadia/The_Ark/pulls), or [sign up for the newsletter](https://thearkadia.com/pages/newsletter).
 
 
 
@@ -20,7 +17,7 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 
 (images below are only mockups of the applications. all companies, charities, and names are used for demonstration purposes only) 
 
-* An open source application that allows citizens to easily track the voting history of their representatives. 
+* An open source application that allows citizens to keep track of the voting history of their representatives. 
 
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Posts%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Posts%20–%201%403x.png" width="25%" height="10%"> <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Profile%20Donations%403x.png" width="25%" height="10%">     </p>
@@ -30,10 +27,10 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 <p align="center">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Budget%403x.png" width="25%" height="10%">
 <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Boycott%20List%403x.png" width="25%" height="10%">
-<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Nestle%20Alternatives%403x.png" width="25%" height="10%">     </p>
+<img src="https://github.com/thearkadia/The_Ark/blob/master/Media/PNGS/Nestle%20Alternatives%20Hershey%20Extended%20–%201%403x.png" width="25%" height="10%">     </p>
 
-* An application for journalists and charities to easily recieve direct donations from supporters similar to how [Patreon](https://www.patreon.com) works with the option of accepting Cryptocurrencies. 
-* An application for journalists to publish articles on a peer to peer network making it very hard to be censored 
+* An application for journalists and charities to easily recieve reccuring donations from supporters. 
+* An application for journalists to publish articles on a peer to peer network and accept micro transactions for content. 
 * An application to keep track of important dates.
 
 
@@ -46,18 +43,21 @@ One of the goals of The Ark is to simplify the process of participating in a dem
 
 
 
+<p align="center">
+  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/arkanim.gif" width="50%" height="50%"/>
+</p>
 
 
 <p align="center">
-  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/vicproject.jpg" width="100%" height="100%"/>
+  <img src="https://github.com/thearkadia/The_Ark/blob/master/Media/vicproject.png" width="100%" height="100%"/>
 </p>
  <p align="center">
   <a href="mailto:thearkadia@protonmail.com"></center>
-email us</a> </p>
+Email Us</a> </p>
 
-<p align="center"> <a href="https://instagram.com/thearkadia "> follow our art </center> </p>
+<p align="center"> <a href="https://instagram.com/thearkadia "> Follow Our Art </center> </p>
 
-<p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Subscribe to Newsletter</center> </p></a>
+<p align="center"> <a href="https://www.crowdsupply.com/the-arkadia/the-ark-dev-kit"> Pre-Order Dev Kit</center> </p></a>
 <p>
       </p>
     
